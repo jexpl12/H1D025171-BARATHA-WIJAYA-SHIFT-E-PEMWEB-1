@@ -1,6 +1,7 @@
 body{
     background-color: blue;
 }
+
 h2{
     font-family: "Comic Sans MS";
     background-color: red;
@@ -43,4 +44,30 @@ table{
 #txtAlamat{
     width: 346px;
     height: 42px;
+}
+
+table {
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+/* Border */
+td {
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+/* button */
+#btnKirim, #btnCancel {
+    padding: 6px 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#btnKirim {
+    background-color: white;
+}
+
+#btnCancel {
+    background-color: lightgray;
 }
