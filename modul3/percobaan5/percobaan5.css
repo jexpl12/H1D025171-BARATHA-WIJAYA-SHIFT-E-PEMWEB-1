@@ -21,25 +21,15 @@ table{
     width: 15%;
 }
 
-.kolom2{
-    width: 2%;
-}
+.kolom2{width: 2%;}
 
-.kolom3{
-    width: 83%;
-}
+.kolom3{width: 83%;}
 
-#txtNama, #txtKota {
-    width: 186px;
-}
+#txtNama, #txtKota {width: 186px;}
 
-#txtTgl, #txtBulan {
-    width: 54px;
-}
+#txtTgl, #txtBulan {width: 54px;}
 
-#txtTahun{
-    width: 87px;
-}
+#txtTahun{width: 87px;}
 
 #txtAlamat{
     width: 346px;
@@ -64,10 +54,6 @@ td {
     cursor: pointer;
 }
 
-#btnKirim {
-    background-color: white;
-}
+#btnKirim {background-color: white;}
 
-#btnCancel {
-    background-color: lightgray;
-}
+#btnCancel {background-color: lightgray;}
