@@ -1,6 +1,4 @@
-body{
-    background-color: blue;
-}
+body{background-color: blue;}
 
 h2{
     font-family: "Comic Sans MS";
@@ -55,5 +53,4 @@ td {
 }
 
 #btnKirim {background-color: white;}
-
 #btnCancel {background-color: lightgray;}
